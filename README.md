@@ -120,7 +120,7 @@ I'm a program and project manager who works where AI, data and operations meet. 
 ## Education
 
 **M.S. Project Management**, Clark University (2025), GPA 3.88, STEM-designated, PMI GAC-accredited<br>
-**B.Tech Computer Science & Engineering**, Kurukshetra University
+**B.Tech Computer Science & Engineering**, Kurukshetra University, India
 
 ---
 
