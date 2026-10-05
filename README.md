@@ -15,7 +15,7 @@ I'm a program and project manager who works where AI, data and operations meet. 
 - **Where I've done it:** delivering LLM and NLP training data for Google through Tech Mahindra, building KeelWorks Foundation's first Data Services function, and running suppliers and procurement in industrial supply chain
 - **What I build:** quality systems, operating rhythms and data foundations that keep running after I hand them off
 - **Why I write code:** I build machine learning prototypes myself, so I understand the systems I manage from data to deployment to governance
-- **Where I am:** Fresno, CA, open to roles across California and remote in the US
+- **Where I am:** Bay Area, CA, open to roles across USA and remote in the US
 
 ## Featured projects
 
@@ -120,7 +120,7 @@ I'm a program and project manager who works where AI, data and operations meet. 
 ## Education
 
 **M.S. Project Management**, Clark University (2025), GPA 3.88, STEM-designated, PMI GAC-accredited<br>
-**B.Tech Computer Science & Engineering**, Kurukshetra University (2015)
+**B.Tech Computer Science & Engineering**, Kurukshetra University
 
 ---
 
