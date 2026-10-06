@@ -6,16 +6,18 @@
   <a href="https://priyamvadamaan.github.io"><img src="https://img.shields.io/badge/Portfolio-priyamvadamaan.github.io-8E6FB4?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/priyamvadamaan"><img src="https://img.shields.io/badge/LinkedIn-priyamvadamaan-8E6FB4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:priyamvadamaan09@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-C2489A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <br>
+  <img src="https://img.shields.io/badge/Available%20to%20start-Immediately-2B1842?style=for-the-badge" alt="Available to start immediately">
 </p>
 
 ## About me
 
 I'm a program and project manager who works where AI, data and operations meet. My pattern is simple: I walk into a gap, and I build the system that wasn't there.
 
-- **Where I've done it:** delivering LLM and NLP training data for Google through Tech Mahindra, building KeelWorks Foundation's first Data Services function, and running suppliers and procurement in industrial supply chain
+- **Where I've done it:** delivering LLM and NLP training data for Google through Tech Mahindra, analyzing inventory and order performance at The Walt Disney Company, and running suppliers and procurement in industrial supply chain
 - **What I build:** quality systems, operating rhythms and data foundations that keep running after I hand them off
 - **Why I write code:** I build machine learning prototypes myself, so I understand the systems I manage from data to deployment to governance
-- **Where I am:** Bay Area, CA, open to roles across USA and remote in the US
+- **Availability:** ready to start immediately. Based in the Bay Area, CA, and open to roles across the US, on-site or remote
 
 ## Featured projects
 
@@ -40,7 +42,7 @@ I'm a program and project manager who works where AI, data and operations meet. 
       <a href="https://github.com/PriyamvadaMaan/farsight"><img src="assets/farsight.jpg" alt="FARSIGHT storage-profile clusters chart" width="280"></a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/PriyamvadaMaan/farsight">FARSIGHT: AI Storage Strategy Assistant</a></h3>
+      <h3><a href="https://github.com/PriyamvadaMaan/farsight">FARSIGHT: Future-Ready AI Storage Strategy Assistant</a></h3>
       Recommends a data storage strategy for an organization's AI workloads and explains every recommendation in plain language.
       <ul>
         <li>Combines a transparent rule engine, K-Means clustering and TF-IDF retrieval</li>
@@ -120,10 +122,10 @@ I'm a program and project manager who works where AI, data and operations meet. 
 ## Education
 
 **M.S. Project Management**, Clark University (2025), GPA 3.88, STEM-designated, PMI GAC-accredited<br>
-**B.Tech Computer Science & Engineering**, Kurukshetra University, India
+**B.Tech Computer Science & Engineering**, Kurukshetra University (2015)
 
 ---
 
 <p align="center">
-  <sub>Hiring for program, project or AI data operations roles? <a href="https://www.linkedin.com/in/priyamvadamaan">Let's talk on LinkedIn</a>.</sub>
+  <sub>Available to start immediately. Hiring for program, project or AI data operations roles? <a href="https://www.linkedin.com/in/priyamvadamaan">Let's talk on LinkedIn</a>.</sub>
 </p>
