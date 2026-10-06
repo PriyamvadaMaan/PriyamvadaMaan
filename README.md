@@ -6,8 +6,7 @@
   <a href="https://priyamvadamaan.github.io"><img src="https://img.shields.io/badge/Portfolio-priyamvadamaan.github.io-8E6FB4?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/priyamvadamaan"><img src="https://img.shields.io/badge/LinkedIn-priyamvadamaan-8E6FB4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:priyamvadamaan09@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-C2489A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <br>
-  <img src="https://img.shields.io/badge/Available%20to%20start-Immediately-2B1842?style=for-the-badge" alt="Available to start immediately">
+  
 </p>
 
 ## About me
